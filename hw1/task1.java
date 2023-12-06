@@ -15,7 +15,7 @@ public class task1 {
             sum+=i;
             fac*=i;
         }
-        System.out.printf("The sum  - %d, The factorial - %d", sum, fac);
+        System.out.printf("The sum  - %d, The factorial1 - %d", sum, fac);
         iScanner.close();
     }
 }

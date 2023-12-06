@@ -43,7 +43,7 @@ public class task1 {
     public static LinkedList<String> modif_string_to_ll(int number) {
         List<String> num_list = Arrays.asList(Integer.toString(number).split(""));
         LinkedList<String> my_l_list = new LinkedList<>(num_list);
-        System.out.printf("Result: %s\n", my_l_list);
+        System.out.printf("esult: %s\n", my_l_list);
         return my_l_list;
     }
 
